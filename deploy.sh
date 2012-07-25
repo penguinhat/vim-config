@@ -24,4 +24,4 @@ echo 'Adding vimrc!'
 cp -v vimrc ~/.vimrc
 
 #Done!
-echo 'Finished!
+echo 'Finished!'
