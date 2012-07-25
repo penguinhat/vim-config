@@ -12,5 +12,5 @@ then finally copies vimrc to ./vimrc
 Install
 -------
 
-    git clone <REPO>
+    git clone https://github.com/penguinhat/vim-config.git
     ./deploy
