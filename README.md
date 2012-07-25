@@ -1,8 +1,7 @@
 Overview
 --------
 
-This is a simple git repo with a deploy script to allow me to quickly import
-my custom vim.
+This is a vim config with a quick and dirty install script
 
 It is made up of my custom vimrc file, a list of all bundles used and a quick
 and dirty deploy script that kills the existing .vim folder (after making a
