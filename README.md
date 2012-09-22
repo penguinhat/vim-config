@@ -8,6 +8,11 @@ and dirty deploy script that kills the existing .vim folder (after making a
 backup copy in .BACKUPvim), installs pathogen, installs all of the bundles and
 then finally copies vimrc to ./vimrc
 
+Requirements
+-------
+
+This requires curl, which Kubuntu apparently doesn't come with.
+
 Install
 -------
 
