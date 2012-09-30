@@ -6,6 +6,7 @@ set background=dark
 set backspace=indent,eol,start
 set colorcolumn=80
 set expandtab
+set tabstop=4
 set fileencodings=ucs-bom,utf-8,default,latin1
 set helplang=en
 set history=50
@@ -54,3 +55,5 @@ filetype plugin on
 let g:pydiction_location = '/home/wdh/.vim/vimfiles/dict/complete-dict' 
 
 set ofu=syntaxcomplete#Complete
+
+colorscheme koehler
